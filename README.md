@@ -18,7 +18,7 @@ Matplotlib
 Seaborn
 Power BI – Interactive dashboard creation
 MS Excel – Dataset handling
-AUTHOR:
 
+AUTHOR:
 Renuka Jakkula
 B.Tech – Computer Science and Engineering
